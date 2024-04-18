@@ -1,6 +1,5 @@
 ### Hi there 👋
 - Im SnaggelsHD (Paul)!
-- Im currently studying computer science in Germany.
-- Im currenty learning Java, Typescript and C#.
-- Im interested in learning Python in the future.
+- Im studying computer science in Germany.
+- Im currenty learning Java, Typescript, Python and C.
 - I also like Japan and Im studying Japanese.
